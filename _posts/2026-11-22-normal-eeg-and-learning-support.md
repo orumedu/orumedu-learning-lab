@@ -30,5 +30,5 @@ description: "뇌파검사의 ‘정상’ 소견이 답하는 질문과 공부�
 
 ## Sources
 
-[1] https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy — 영국 NICE — 뇌전증 진단과 평가 (NG217, 1.2.5–1.2.6)
-[2] https://www.snuh.org/health/nMedInfo/nView.do?category=DIS&medid=AA000198 — 서울대학교병원 — 뇌전증 의학정보, 진단/검사
+- [1] [영국 NICE — 뇌전증 진단과 평가 (NG217, 1.2.5–1.2.6)](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)
+- [2] [서울대학교병원 — 뇌전증 의학정보, 진단/검사](https://www.snuh.org/health/nMedInfo/nView.do?category=DIS&medid=AA000198)
